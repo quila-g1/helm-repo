@@ -3,11 +3,11 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-09-30T00:41:37.537049397Z"
+    created: "2024-09-30T03:29:33.168885536Z"
     description: test app
-    digest: a5dc4ee0836ac33e43357d6a6f50b87222a2085d7fdf6218080e6d06959401f4
+    digest: 2b1cbe61fbbfcd77e6097a2060cbaddf347daeebc397105511a14e07ad6a7827
     name: myapp
     urls:
     - https://quila-g1.github.io/helm-repo/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-30T00:41:37.536642558Z"
+generated: "2024-09-30T03:29:33.167820353Z"
